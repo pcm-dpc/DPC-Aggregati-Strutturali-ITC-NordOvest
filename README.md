@@ -295,27 +295,27 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **LIGURIA**
 
-**Size (Mb): **153
+**Size (Mb):** 153
 
 **Numero delle features:** 312561
 
 **LOMBARDIA**
 
-**Size (Mb): **1400
+**Size (Mb):** 1400
 
 **Numero delle features:** 2120407
 
 **PIEMONTE**
 
-**Size (Mb): **404
+**Size (Mb):** 404
 
 **Numero delle features:** 1430851
 
 **VALLE D'AOSTA**
 
-**Size (Mb): **22,9
+**Size (Mb):* *22,9
 
-**Numero delle features:**67814
+**Numero delle features:** 67814
 
 ## Aggiornamento dei dati
 Non pianificato
