@@ -155,56 +155,37 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 ## Licenza dei dati originali
 
-**ABRUZZO**
+**LIGURIA**
 
-**Licenza dataset originale:** CC-BY-NC
+**Licenza dataset originale:** CC BY
 
-**Autorizzazione specifica:** Nota del 29 gennaio 2021 Regione Abruzzo DPB012 – Servizio Informatica e 
-Statistica
+**Autorizzazione specifica:** NO
 
-**Attribuzione richiesta:** Regione Abruzzo
+**Attribuzione richiesta:** Regione Liguria
 
-**BASILICATA**
+**LOMBARDIA**
 
 **Licenza dataset originale:** IODL 2.0
 
 **Autorizzazione specifica:** NO
 
-**Attribuzione richiesta:** Regione Basilicata
+**Attribuzione richiesta:** Regione Lombardia
 
-**CALABRIA**
+**PIEMONTE**
 
-**Licenza dataset originale:** IODL 2.0
-
-**Autorizzazione specifica:** NO
-
-**Attribuzione richiesta:** Regione Calabria
-
-**CAMPANIA**
-
-**Licenza dataset originale:** DGR n. 301/2014
-
-**Autorizzazione specifica:** Nota del 15 gennaio 2021 Giunta Regionale della Campania – DG Governo 
-del Territorio – Ufficio di Staff Tecnico Operativo 50.09.92
-
-**Attribuzione richiesta:** Regione Campania
-
-**MOLISE**
-
-**Licenza dataset originale:** Non presente
-
-**Autorizzazione specifica:** Nota del 17 dicembre 2020 dell’Agenzia delle Entrate – Direzione Centrale 
-Servizi Catastali, Cartografici e di Pubblicità Immobiliare
-
-**Attribuzione richiesta:** Agenzia delle Entrate
-
-**PUGLIA**
-
-**Licenza dataset originale:** IODL 2.0
+**Licenza dataset originale:** CC BY 4.0
 
 **Autorizzazione specifica:** NO
 
-**Attribuzione richiesta:** Regione Puglia
+**Attribuzione richiesta:** Regione Piemonte
+
+**VALLE D'AOSTA**
+
+**Licenza dataset originale:** CC 0 1.0
+
+**Autorizzazione specifica:** NO
+
+**Attribuzione richiesta:** Regione Valle d’Aosta
 
 ## Sistemi di riferimento dei dati originali
 
