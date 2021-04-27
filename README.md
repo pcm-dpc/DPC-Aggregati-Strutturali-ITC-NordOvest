@@ -103,6 +103,9 @@ DPC-Aggregati-Strutturali-ITC-NordOvest/
 │   │   │   ├── shapefile comuni
 │   │   ├── Vercelli/
 │   │   │   ├── shapefile comuni
+│   ├── ValleAosta/
+│   │   ├── Aosta/
+│   │   │   ├── shapefile comuni
 ```
 
 ## DESCRIZIONE DEI DATI ORIGINALI
@@ -110,67 +113,45 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 ## Fonti dei dati originali
 
-**ABRUZZO**
+**LIGURIA**
 
-**Disponibili nel Web:** http://opendata.regione.abruzzo.it/content/dbtr-regione-abruzzo-scala-15000-edizione-2007-formato-shp
+**Disponibili nel Web:** https://www.regione.liguria.it/open-data/item/7099-carta-tecnica-regionale-1-5000-dal-2007-ii-edizione-3d-db-topografico.html 
 
-**Tipo:** DBTR(Intesa GIS 2006)
+**Tipo:** CTRN
 
-**Edizione:** 2007
-
-**Scala:** 5000
-
-**BASILICATA**
-
-**Disponibili nel Web:** http://dati.regione.basilicata.it/catalog/dataset/database-topografico-tema-edificato 
-
-**Tipo:** DBT(DM2011)
-
-**Edizione:** 2015
+**Edizione:** 2007/2013
 
 **Scala:** 5000
 
-**CALABRIA**
+**LOMBARDIA**
 
-**Disponibili nel Web:** http://geoportale.regione.calabria.it/web/geoportale/opendata
+**Disponibili nel Web:** La Regione Lombardia aveva autonomamente già realizzato gli aggregati strutturali (di concerto con il Dipartimento della protezione civile) nell’ambito delle attività collegate alla realizzazione dell’Allegato n.2 del Programma nazionale di soccorso per il rischio sismico. I dati sono stati dunque trasmessi nel marzo del 2019, contestualmente all’intesa siglata con il Dipartimento. Successivamente, il 21 settembre 2020 la Regione ha comunicato di aver pubblicato il completamento di 262 comuni, fatta eccezione di alcuni comuni comaschi. Il Dipartimento della protezione civile, di intesa con la Regione Lombardia, ha pertanto generato nuovamente per l’intero territorio regionale gli aggregati in sostituzione dei precedenti. Nel mese di aprile 2021 sono stati anche forniti e integrati i dati completi della provincia di Como.
 
-**Tipo:** DBT(DM2011)
+**Tipo:** DBT
 
-**Edizione:** 2008
-
-**Scala:** 5000
-
-**CAMPANIA**
-
-**Disponibili nel Web:** La Regione Campania ha trasmesso i dati a seguito di richiesta del DPC, nell’ambito delle attività di Pianificazione di emergenza per il rischio vulcanico del Vesuvio e dei Campi Flegrei e dell’esercitazione di livello nazionale per il rischio vulcanico “Campi Flegrei 2019”.
-
-**Tipo:** DBT(DM2011)
-
-**Edizione:** 2011
+**Edizione:** 2020/2021
 
 **Scala:** 5000
 
-**MOLISE**
+**PIEMONTE**
 
-**Disponibili nel Web:** La Regione Molise non rende disponibile la propria Cartografia Tecnica Regionale in forma vettoriale. A seguito di richiesta è emerso che la cartografia disponibile non era completa e, pertanto, si è deciso di utilizzare la copertura cartografica dei fabbricati richiesti e forniti dall’Agenzia delle Entrate.
+**Disponibili nel Web:** La Regione Piemonte dispone di una propria Base Dati Territoriale di Riferimento degli Enti piemontesi (https://www.geoportale.piemonte.it/cms/progetti/progetto-mosaicatura-catastale ) e aveva autonomamente già valorizzato nella classe Edifici del DBT il campo IDAG relativo all’identificazione degli aggregati strutturali e li ha trasmessi a seguito di richiesta.
 
-**Tipo:** Catasto
+**Tipo:** https://www.geoportale.piemonte.it/cms/bdtre/bdtre-2. Questa base dati si compone di un “dato riposizionato [che] è costituito dalle geometrie catastali scaricate attraverso il Sistema di Interscambio (SigmaTer Piemonte) e trattate applicando parametri di shifting e deformazione per migliorarne la georeferenziazione rispetto agli Originali di Impianto e ad altri elementi di riferimento.”. Nel marzo 2021 è stata pubblicato l’ultimo aggiornamento https://www.geoportale.piemonte.it/cms/archivio-news/102-rilasciata-l-edizione-2021-della-bdtre-con-nuova-struttura-e-nuove-modalita-di-fruizione?fbclid=IwAR3Lki5z6BcT_jWnlkQSYFGv-yQR0cQDO5DMj9LfDpuVHnTDTZEAticyW0k .
 
-**Edizione:** 2020
+**Edizione:** 2021
 
-**Scala:** 2000
+**Scala:** 2000/5000
 
-**PUGLIA**
+**VALLE D'AOSTA**
 
-**Disponibili nel Web:** 
-http://www.sit.puglia.it/portal/portale_cartografie_tecniche_tematiche/Download/Cartografie; per il metadato vedi  http://repertorio.sit.puglia.it/geonetwork/srv/ita/main.home?uuid=r_puglia:bd0db757-4c3f-49cc-a251-9c09414ba0d0
+**Disponibili nel Web:** https://mappe.partout.it/pub/geonavitg/geodownload.asp?carta=CTR
 
-**Tipo:** DBT(DM2011)
+**Tipo:** CTRN
 
-**Edizione:** 2011
+**Edizione:** 2005
 
 **Scala:** 5000
-
 
 ## Licenza dei dati originali
 
