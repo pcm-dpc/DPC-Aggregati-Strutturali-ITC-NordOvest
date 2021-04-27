@@ -313,7 +313,7 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **VALLE D'AOSTA**
 
-**Size (Mb):* *22,9
+**Size (Mb):** 22,9
 
 **Numero delle features:** 67814
 
