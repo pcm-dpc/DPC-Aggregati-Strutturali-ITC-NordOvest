@@ -189,17 +189,29 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 ## Sistemi di riferimento dei dati originali
 
-**SARDEGNA**
+**LIGURIA**
+
+**Sistema Riferimento:** GCS_ETRS_1989
+
+**EPSG:** 4258
+
+**LOMBARDIA**
 
 **Sistema Riferimento:** WGS_1984_UTM_Zone_32N
 
 **EPSG:** 32632
 
-**SICILIA**
+**PIEMONTE**
 
-**Sistema Riferimento:** RDN2008_UTM_zone_33N
+**Sistema Riferimento:** WGS_1984_UTM_Zone_32N
 
-**EPSG:** 6708
+**EPSG:** 32632
+
+**VALLE D'AOSTA**
+
+**Sistema Riferimento:** ED_1950 UTM Zone 32 N
+
+**EPSG:** 23032
 
 ## DESCRIZIONE DEGLI AGGREGATI STRUTTURALI
 In questa sezione viene descritta in maggior dettaglio la serie dei dataset degli Aggregati Strutturali che rappresentano il risultato dell'elaborazione dei dati originali precedentemente descritti.
