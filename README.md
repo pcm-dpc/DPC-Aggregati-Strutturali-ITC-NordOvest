@@ -49,62 +49,59 @@ A ciascun gruppo è associato un proprio identificativo composto da una sequenza
 <img src="https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITI-Centro/blob/master/RipartizioniISTAT.PNG" />
 
 ```
-DPC-Aggregati-Strutturali-ITF-Sud/
+DPC-Aggregati-Strutturali-ITC-NordOvest/
 │
-├── Sud/
-│   ├── Abruzzo/
-│   │   ├── Chieti/
+├── NordOvest/
+│   ├── Liguria/
+│   │   ├── Genova/
 │   │   │   ├── shapefile comuni
-│   │   ├── LAquila/
+│   │   ├── Imperia/
 │   │   │   ├── shapefile comuni
-│   │   ├── Pescara/
+│   │   ├── LaSpezia/
 │   │   │   ├── shapefile comuni
-│   │   ├── Teramo/
+│   │   ├── Savona/
 │   │   │   ├── shapefile comuni
-│   ├── Basilicata/
-│   │   ├── Matera/
+│   ├── Lombardia/
+│   │   ├── Bergamo/
 │   │   │   ├── shapefile comuni
-│   │   ├── Potenza/
+│   │   ├── Brescia/
 │   │   │   ├── shapefile comuni
-│   ├── Calabria/
-│   │   ├── Catanzaro/
+│   │   ├── Como/
 │   │   │   ├── shapefile comuni
-│   │   ├── Cosenza/
+│   │   ├── Cremona/
 │   │   │   ├── shapefile comuni
-│   │   ├── Crotone/
+│   │   ├── Lecco/
 │   │   │   ├── shapefile comuni
-│   │   ├── ReggioCalabria/
+│   │   ├── Lodi/
 │   │   │   ├── shapefile comuni
-│   │   ├── ViboValentia/
+│   │   ├── Mantova/
 │   │   │   ├── shapefile comuni
-│   ├── Campania/
-│   │   ├── Avellino/
+│   │   ├── Milano/
 │   │   │   ├── shapefile comuni
-│   │   ├── Benevento/
+│   │   ├── MonzaBrianza/
 │   │   │   ├── shapefile comuni
-│   │   ├── Caserta/
+│   │   ├── Pavia/
 │   │   │   ├── shapefile comuni
-│   │   ├── Napoli/
+│   │   ├── Sondrio/
 │   │   │   ├── shapefile comuni
-│   │   ├── Salerno/
+│   │   ├── Varese/
 │   │   │   ├── shapefile comuni
-│   ├── Molise/
-│   │   ├── Campobasso/
+│   ├── Piemonte/
+│   │   ├── Alessandria/
 │   │   │   ├── shapefile comuni
-│   │   ├── Isernia/
+│   │   ├── Asti/
 │   │   │   ├── shapefile comuni
-│   ├── Puglia/
-│   │   ├── Bari/
+│   │   ├── Biella/
 │   │   │   ├── shapefile comuni
-│   │   ├── BarlettaAndriaTrani/
+│   │   ├── Cuneo/
 │   │   │   ├── shapefile comuni
-│   │   ├── Brindisi/
+│   │   ├── Novara/
 │   │   │   ├── shapefile comuni
-│   │   ├── Foggia/
+│   │   ├── Torino/
 │   │   │   ├── shapefile comuni
-│   │   ├── Lecce/
+│   │   ├── VerbanoCusioOssola/
 │   │   │   ├── shapefile comuni
-│   │   ├── Taranto/
+│   │   ├── Vercelli/
 │   │   │   ├── shapefile comuni
 ```
 
