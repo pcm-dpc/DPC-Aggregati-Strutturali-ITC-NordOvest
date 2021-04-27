@@ -293,42 +293,29 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 ## Occupazione di memoria Regionale
 
-**ABRUZZO**
+**LIGURIA**
 
-**Size (Mb):** 200
+**Size (Mb): **153
 
-**Numero delle features:** 554247
+**Numero delle features:** 312561
 
-**BASILICATA**
+**LOMBARDIA**
 
-**Size (Mb):** 172
+**Size (Mb): **1400
 
-**Numero delle features:** 315163
+**Numero delle features:** 2120407
 
-**CALABRIA**
+**PIEMONTE**
 
-**Size (Mb):** 346
+**Size (Mb): **404
 
-**Numero delle features:** 915619
+**Numero delle features:** 1430851
 
-**CAMPANIA**
+**VALLE D'AOSTA**
 
-**Size (Mb):** 763
+**Size (Mb): **22,9
 
-**Numero delle features:** 1373678
-
-**MOLISE**
-
-**Size (Mb):** 51,9
-
-**Numero delle features:** 138596
-
-**PUGLIA**
-
-**Size (Mb):** 517
-
-**Numero delle features:** 1328278
-
+**Numero delle features:**67814
 
 ## Aggiornamento dei dati
 Non pianificato
