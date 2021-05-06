@@ -273,7 +273,7 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 	
 -	Controllo conformità allo schema dati
 	
--	Verifica IDAG duplicati. Si evidenzia il caso della Regione Piemonte, che è l’unica regione per la quale non sono stati calcolati i nuovi valori di IDAG in quanto la regione li aveva precedentemente calcolati attribuendoli alla classe degli Edifici del BDTRE. Questo ha comportato, nella suddivisione nelle unità amministrative istata, anche delle discrepanze tra l comune ISTAT e il comune dal quale è stato ricavato il codice IDAG. In questa regione sono stati verificati anche gli UUID degli edifici, che in taluni casi sono risultati duplicati.
+-	Verifica IDAG duplicati. NOTA BENE: si evidenzia il caso della **Regione Piemonte**, che è l’unica regione per la quale non sono stati calcolati i nuovi valori di IDAG in quanto la regione li già aveva precedentemente calcolati attribuendoli alla classe degli Edifici del BDTRE. Non sono, inoltre, state effettuate altre modifiche topologiche che avrebbero comportato modifiche agli IDAG già presenti (ad esempio poligoni disgiunti con medesimo IDAG trattati come multipolygon). Questo ha comportato, nella suddivisione nelle unità amministrative ISTAT, anche delle discrepanze tra l comune ISTAT e il comune dal quale è stato ricavato il codice IDAG. In questa regione sono stati verificati anche gli UUID degli edifici, che in taluni casi sono risultati duplicati.
 
 -	Verifica correttezza IDAG
 
