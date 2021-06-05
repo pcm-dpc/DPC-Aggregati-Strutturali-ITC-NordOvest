@@ -7,7 +7,7 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest)](https://github.com/pcm-dpc/DPC-Aggregati-Strutturali-ITC-NordOvest/commits/master)
 
 ## Avvisi
-Il 2001-05-12 viene aperto il Repository.
+Il 2021-05-12 viene aperto il Repository.
 
 ## Sommario
 [Struttura del Repository](#Struttura-del-repository)
@@ -217,7 +217,7 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 In questa sezione viene descritta in maggior dettaglio la serie dei dataset degli Aggregati Strutturali che rappresentano il risultato dell'elaborazione dei dati originali precedentemente descritti.
 
 ## Formato degli Aggregati Strutturali
-Il formato dei dati è shape. Ogni shape è formato da 4 file con le seguenti estensioni: .dbf, .prj, .shp, .shx.
+Il formato dei dati è shapefile. Ogni shapefile è formato da 4 file con le seguenti estensioni: .dbf, .prj, .shp, .shx.
 
 La struttura dei file è la seguente:
 
