@@ -301,9 +301,9 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **LOMBARDIA**
 
-**Size (Mb):** 1027
+**Size (Mb):** 836
 
-**Numero delle features:** 2126425
+**Numero delle features:** 2201482
 
 **PIEMONTE**
 
