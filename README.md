@@ -137,7 +137,7 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **Disponibili nel Web:** La Regione Piemonte dispone di una propria Base Dati Territoriale di Riferimento degli Enti piemontesi (https://www.geoportale.piemonte.it/cms/progetti/progetto-mosaicatura-catastale ). A prtire dal rilascio dell'aggiornamento del I semestre 2021 è stato concordato che sarà il DPC a valorizzare e condividere l'IDAG in fase di definizione degli aggregati e che gli aggiornamenti della base cartografica a tale fine saranno annuali.
 
-**Tipo:** https://www.geoportale.piemonte.it/cms/bdtre/bdtre-2. Questa base dati si compone di un “dato riposizionato [che] è costituito dalle geometrie catastali scaricate attraverso il Sistema di Interscambio (SigmaTer Piemonte) e trattate applicando parametri di shifting e deformazione per migliorarne la georeferenziazione rispetto agli Originali di Impianto e ad altri elementi di riferimento.”. Nel luglio 2021 è stata fornito l’ultimo aggiornamento.
+**Tipo:** https://www.geoportale.piemonte.it/cms/bdtre/bdtre-2. Questa base dati si compone di un “dato riposizionato [che] è costituito dalle geometrie catastali scaricate attraverso il Sistema di Interscambio (SigmaTer Piemonte) e trattate applicando parametri di shifting e deformazione per migliorarne la georeferenziazione rispetto agli Originali di Impianto e ad altri elementi di riferimento.”. Nel luglio 2021 è stato fornito l’ultimo aggiornamento.
 
 **Edizione:** 2021
 
