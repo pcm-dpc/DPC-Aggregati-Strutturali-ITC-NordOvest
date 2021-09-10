@@ -135,9 +135,9 @@ La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una 
 
 **PIEMONTE**
 
-**Disponibili nel Web:** La Regione Piemonte dispone di una propria Base Dati Territoriale di Riferimento degli Enti piemontesi (https://www.geoportale.piemonte.it/cms/progetti/progetto-mosaicatura-catastale ) e aveva autonomamente già valorizzato nella classe Edifici del DBT il campo IDAG relativo all’identificazione degli aggregati strutturali e li ha trasmessi a seguito di richiesta.
+**Disponibili nel Web:** La Regione Piemonte dispone di una propria Base Dati Territoriale di Riferimento degli Enti piemontesi (https://www.geoportale.piemonte.it/cms/progetti/progetto-mosaicatura-catastale ). A prtire dal rilascio dell'aggiornamento del I semestre 2021 è stato concordato che sarà il DPC a valorizzare e condividere l'IDAG in fase di definizione degli aggregati e che gli aggiornamenti della base cartografica a tale fine saranno annuali.
 
-**Tipo:** https://www.geoportale.piemonte.it/cms/bdtre/bdtre-2. Questa base dati si compone di un “dato riposizionato [che] è costituito dalle geometrie catastali scaricate attraverso il Sistema di Interscambio (SigmaTer Piemonte) e trattate applicando parametri di shifting e deformazione per migliorarne la georeferenziazione rispetto agli Originali di Impianto e ad altri elementi di riferimento.”. Nel marzo 2021 è stata pubblicato l’ultimo aggiornamento https://www.geoportale.piemonte.it/cms/archivio-news/102-rilasciata-l-edizione-2021-della-bdtre-con-nuova-struttura-e-nuove-modalita-di-fruizione?fbclid=IwAR3Lki5z6BcT_jWnlkQSYFGv-yQR0cQDO5DMj9LfDpuVHnTDTZEAticyW0k .
+**Tipo:** https://www.geoportale.piemonte.it/cms/bdtre/bdtre-2. Questa base dati si compone di un “dato riposizionato [che] è costituito dalle geometrie catastali scaricate attraverso il Sistema di Interscambio (SigmaTer Piemonte) e trattate applicando parametri di shifting e deformazione per migliorarne la georeferenziazione rispetto agli Originali di Impianto e ad altri elementi di riferimento.”. Nel luglio 2021 è stata fornito l’ultimo aggiornamento.
 
 **Edizione:** 2021
 
@@ -307,9 +307,9 @@ Per risolvere eventuali incongruenze generatesi ai bordi di comuni adiacenti, tu
 
 **PIEMONTE**
 
-**Size (Mb):** 543
+**Size (Mb):** 503
 
-**Numero delle features:** 1430851
+**Numero delle features:** 1493353
 
 **VALLE D'AOSTA**
 
