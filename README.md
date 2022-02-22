@@ -109,7 +109,7 @@ DPC-Aggregati-Strutturali-ITC-NordOvest/
 ```
 
 ## DESCRIZIONE DEI DATI ORIGINALI
-La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una elaborazione realizzata. (in prevalenza) a partire dalla classe dell’edificato dei database geotopografici regionali. I poligoni derivati sono stati, inoltre, ripartiti sulla base dei confini delle unità amministrative ISTAT aggiornati al 2021. A differenza dei dati originali relativi all’edificato (o dei fabbricati catastali, in taluni casi), eterogenei per le loro provenienze e modalità di realizzazione - anche dal punto di vista temporale -, il prodotto finale derivato garantisce una armonizzazione a livello nazionale delle informazioni e delle elaborazioni effettuate  e dei contenuti generati. E' tuttavia necessario esaminare preliminarmente e in dettaglio alcune caratteristiche che descrivono la complessità e specificità dei dati originali utilizzati.
+La serie di dataset degli Aggregati Strutturali rappresenta il risultato di una elaborazione realizzata. (in prevalenza) a partire dalla classe dell’edificato dei database geotopografici regionali. I poligoni derivati sono stati, inoltre, ripartiti sulla base dei confini delle unità amministrative ISTAT aggiornati al 2022. A differenza dei dati originali relativi all’edificato (o dei fabbricati catastali, in taluni casi), eterogenei per le loro provenienze e modalità di realizzazione - anche dal punto di vista temporale -, il prodotto finale derivato garantisce una armonizzazione a livello nazionale delle informazioni e delle elaborazioni effettuate  e dei contenuti generati. E' tuttavia necessario esaminare preliminarmente e in dettaglio alcune caratteristiche che descrivono la complessità e specificità dei dati originali utilizzati.
 
 ## Fonti dei dati originali
 
@@ -246,7 +246,7 @@ Ove disponibili, vengono scaricate le feature delle classi del DBT “Edifici”
 
 **Fase 2:** _Riferimento alle Unità amministrative territoriali ISTAT_
 
-Secondo il Manuale per la compilazione della Scheda AeDES (http://www.protezionecivile.gov.it/documents/20182/0/2_LRManualeAedes_31_ottobre_GU_.pdf/8b4e4207-a767-4579-9971-d4c714a5fd4c - pagina 22) gli aggregati strutturali devono essere identificati principalmente con riferimento ai codici ISTAT delle Regioni, Province e Comuni. Pertanto nell’attribuzione del codice IDAG e nella selezione delle relative feature sono stati utilizzati i dati delle Unità Amministrative Territoriali ISTAT con aggiornamento 2021 (https://www.istat.it/it/archivio/222527). Nell’operazione di selezione sono state incluse in ciascun comune le feature che avessero il proprio centroide all’interno del relativo poligono ISTAT.
+Secondo il Manuale per la compilazione della Scheda AeDES (http://www.protezionecivile.gov.it/documents/20182/0/2_LRManualeAedes_31_ottobre_GU_.pdf/8b4e4207-a767-4579-9971-d4c714a5fd4c - pagina 22) gli aggregati strutturali devono essere identificati principalmente con riferimento ai codici ISTAT delle Regioni, Province e Comuni. Pertanto nell’attribuzione del codice IDAG e nella selezione delle relative feature sono stati utilizzati i dati delle Unità Amministrative Territoriali ISTAT con aggiornamento 2022 (https://www.istat.it/it/archivio/222527). Nell’operazione di selezione sono state incluse in ciascun comune le feature che avessero il proprio centroide all’interno del relativo poligono ISTAT.
 
 **Fase 3:** _Elaborazione dei dati a livello comunale_
 
